@@ -1,7 +1,7 @@
 {
   "botname": "Zacros Bot",
   "ownerNumber": [
-    "YOUR NUMBER"
+    "601136151330"
   ],
   "linkApi": {
    "zacros": "zacros.herokuapp.com",
@@ -31,11 +31,11 @@
   "wings": [ "𓆩 ", " 𓆪" ]
 },
   "response": {
-    "owner": "Khusus Owner",
-    "admin": "Khusus Admin",
-    "group": "Khusus Group",
-    "wait": "Tunggu Sebentar...",
-    "private": "Khusus Private",
+    "owner": "Just Owner",
+    "admin": "Just Admin",
+    "group": "Just In Group",
+    "wait": "Loading...",
+    "private": "Just Private chat",
     "notUrl": "Link Invalid",
     "media": "Pesan Harus Media",
     "mentioned": "Tag Orang Bang",
@@ -43,7 +43,7 @@
     "_media": "Kirim Pesan Media Atau Tag Pesan Yang Terdapat Media",
     "Error": "Something error",
     "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
-    "botAdmin": "Bot Nya Admin Dong"
+    "botAdmin": "Bot Harus Jadi Admin Hayukk"
   },
     "session":null
 }
